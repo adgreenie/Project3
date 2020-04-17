@@ -5,7 +5,7 @@
 # Project Overview
 
 -We propose the creation of a full stack application, Twitter clone. Using a back end with full CRUD abilities from the front end to populate
-data that the user posts. Styled in modern mobile first approach, then scaling up to the desktop applications. We would like our users to be able to post their content, and have others comment on the posts.
+data that the user posts. Styled in moderb mobile first approach, then scaling up to the desktop applications. We would like our users to be able to post their content, and have others comment on the posts.
 Front end will be using React while backend will be a Express, Mongo, and Mongoose.
 
 ## Project Links
@@ -15,13 +15,9 @@ Front end will be using React while backend will be a Express, Mongo, and Mongoo
 
 ## Project Description
 
-React Architecture and WireFrame:
+React Architecture:
 
-https://www.figma.com/file/IiP3bWLkxpFsWnNoVXqZrO/Twitter-Clone?node-id=0%3A1
-
-Time Priority Matrix:
-
-https://docs.google.com/drawings/d/19SkMOCgP_dLDPa8-AsPx5pVYVNHjlwo34_3wy7WbFPI/edit
+WireFrame:
 
 
 
@@ -68,9 +64,9 @@ Based on the initial logic defined in the previous sections try and breakdown th
 
 Time frames are also key in the development cycle.  You have limited time to code all phases of the game.  Your estimates can then be used to evalute game possibilities based on time needed and the actual time you have before game must be submitted. It's always best to pad the time by a few hours so that you account for the unknown so add and additional hour or two to each component to play it safe. Also, put a gif at the top of your Readme before you pitch, and you'll get a panda prize.
 
+# Back end
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-|Research| H | 4hrs|  | |
 | Create back end file structure | H | .5 | |
 | Create models for User, Chirp, and Comment | H | 1 | |
 | Set up GET route & controller to return all Users | H | .5 | |
@@ -83,14 +79,16 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Create helper file for front end | H | 1 | |
 | Debugging interaction with front end | H | 4 | |
 | Add additional functionality for postMVP goals | M | 4 | |
-| React Front End Setup | H | 8hrs|  |  |
-| React Components Organization/Creation| H | 8hrs | |
-| Logic for Components| H| 8hrs| | |
-| Deployment of Backend| H | 2 hrs|  | |
-| Deployment of Frontend| H | 1hr| | |
-| Communicate from Front to Backend | H | 4 hrs|  |  |
-| Responsive | H | 4 hours |  | |
-| Total | H | 60hrs |  | |
+| Total | H | 20 |  | |
+
+
+| Component | Priority | Estimated Time | Time Invetsted | Actual Time |
+| --- | :---: |  :---: | :---: | :---: |
+| Creating Data Base | H | 10hrs | |
+| React Front End | H | 2hrs|  |  |
+| React Components| H | 2hrs | |
+| Communicate from Front to Backend | H | 5 hrs|  |  |
+| Total | H | 0 |  | |
 
 ## Additional Libraries
 ReactStrap/ BootStrap
